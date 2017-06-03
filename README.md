@@ -13,8 +13,6 @@ Säästva linna liikuvuse arengukava (LILIA) eesmärgiks on luua jätkusuutlik l
 -	 Suurendab kauba- ja reisijateveo tõhusust ja tasuvust;
 -	 Suurendab linnakeskkonna atraktiivust ja kvaliteeti.
 
-*- Staatus: mitteametlikul kavandamisel
-
 ### Taustamaterjalid
 
 #### Saue vald
@@ -37,3 +35,5 @@ Säästva linna liikuvuse arengukava (LILIA) eesmärgiks on luua jätkusuutlik l
 #### Muu maailm
 - [Sustainable Urban Mobility Plans](https://ec.europa.eu/transport/themes/urban/urban_mobility/urban_mobility_actions/sump_en)
 - [The European Platform on Sustainable Urban Mobility Plans](http://www.eltis.org/mobility-plans/european-platform)
+
+*- Staatus: mitteametlikul kavandamisel
