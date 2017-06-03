@@ -4,6 +4,7 @@
 
 ### Taustmaterjalid
 EST
+- [Saue valla avaliku ruumi kujunduskava](http://sauevald.ee/avalik-ruum)
 - [Tallinna piirkonna liikuvuskava 2035 koostamine. Mari Jüssi 16.03.2017 ettekanne](http://f.ell.ee/failid/LVP/2017/17/02_LiikuvuskavaTutvustus_MJ_2017_03_16LinnadVallad.pdf)
 - [Liiklusohutusprogramm 2016-2025](https://www.mnt.ee/et/liikleja/liiklusohutusprogramm-2016-2025)
 - [Viimsi	liikuvusuuring 2017](http://www.viimsivald.ee/public/Viimsi_liikuvusuuringu_aruanne-e.pdf)
