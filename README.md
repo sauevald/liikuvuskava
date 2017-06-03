@@ -2,7 +2,7 @@
 
 > Kui Sa planeerid linna autodele ja liiklusele, saad
 > sa autod ja liikluse. Kui Sa planeerid inimestele
-> ja kohtadele, saad sa inimesed ja kohad. _[Fred Kent](http://www.rupprecht-consult.eu/uploads/tx_rupprecht/SUMP_Brochure_EE_web.pdf))_
+> ja kohtadele, saad sa inimesed ja kohad. _[Fred Kent](http://www.rupprecht-consult.eu/uploads/tx_rupprecht/SUMP_Brochure_EE_web.pdf)_
 
 *- Staatus: mitteametlikul kavandamisel
 
