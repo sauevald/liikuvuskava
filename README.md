@@ -4,6 +4,15 @@
 > sa autod ja liikluse. Kui Sa planeerid inimestele
 > ja kohtadele, saad sa inimesed ja kohad. _[Fred Kent](http://www.rupprecht-consult.eu/uploads/tx_rupprecht/SUMP_Brochure_EE_web.pdf)_
 
+Säästva linna liikuvuse arengukava on strateegiline plaan, mis toetub olemasolevatele planeerimistavadele ja võtab arvesse integratsiooni, kaasamise ja hindamise põhimõtteid inimeste praeguste ja tulevaste liikuvusvajaduse rahuldamiseks ja elukvaliteedi tõstmiseks linnades.
+
+Säästva linna liikuvuse arengukava (LILIA) eesmärgiks on luua jätkusuutlik linnatranspordi süsteem, mis:
+-	 Tagab kõigile juurdepääsu töökohtadele ja teenustele;
+-	 Parandab ohutust ja turvalisust;
+-	 Vähendab saastet, kasvuhoonegaaside heidet ja energia tarbimist;
+-	 Suurendab kauba- ja reisijateveo tõhusust ja tasuvust;
+-	 Suurendab linnakeskkonna atraktiivust ja kvaliteeti.
+
 *- Staatus: mitteametlikul kavandamisel
 
 ### Taustamaterjalid
